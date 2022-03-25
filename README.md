@@ -9,3 +9,4 @@ be added or fixed inorder to enhance the website. I went and fixed the heading t
 # What Did I learn?
 Through this project, I learned the importance of accessiblity. I learned that improving a website can be possible while preserving the original code by adding semantic elements which do not disturb the overall flow of a website. My only challenge through out this project was trying to figure out how to add images to this README. I will have that fixed for my next project.
 
+Link to deployed website: https://akaur09.github.io/Refactoring/ 
