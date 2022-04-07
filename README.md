@@ -26,6 +26,8 @@ Example of how the code was cleaned to be easier to read:
 </section>
 ```
 
+![Alt text](./assets/images/website.png)
+
 # What Did I learn?
 Through this project, I learned the importance of accessiblity. I learned that improving a website can be possible while preserving the original code by adding semantic elements which do not disturb the overall flow of a website. My only challenge through out this project was trying to figure out how to add images to this README. I will have that fixed for my next project.
 
